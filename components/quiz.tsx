@@ -312,13 +312,23 @@ export function Quiz() {
   return (
     <div className="mx-auto flex min-h-dvh w-full max-w-2xl flex-col px-4 py-6 md:py-10">
       {/* Üst bilgi */}
-      <div className="mb-5">
+       <div className="mb-5">
+        <div className="mb-3 flex items-center justify-between">
+          <button
+            type="button"
+            onClick={() => setScreen("subject")}
+            className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground"
+          >
+            <ArrowLeft className="size-4" aria-hidden />
+            Ana Menü
+          </button>
+          <span className="tabular-nums text-sm text-muted-foreground">
+            {index + 1} / {deck.length}
+          </span>
+        </div>
         <div className="mb-2 flex items-center justify-between text-sm">
           <span className="rounded-full bg-primary/10 px-3 py-1 font-medium text-primary">
             {current.konu}
-          </span>
-          <span className="tabular-nums text-muted-foreground">
-            {index + 1} / {deck.length}
           </span>
         </div>
         <div className="h-2 w-full overflow-hidden rounded-full bg-muted">

@@ -2656,4 +2656,1506 @@ export const historyQuestions: Question[] = [
     secenekler: ["Haydar Aliyev", "Cemal Abdulnasır", "Fazıl Küçük", "Rauf Denktaş"],
     dogru: 0,
   },
+  {
+  id: 357,
+    konu: "Atatürk'ün Hayatı",
+    soru: "Atatürk hangi okuldan kurmay yüzbaşı olarak mezun olmuştur?",
+    secenekler: [
+      "Manastır Askeri İdadisi",
+      "Selanik Askeri Rüştiyesi",
+      "İstanbul Harp Akademisi",
+      "Selanik Mülkiye Rüştiyesi",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 358,
+    konu: "Atatürk'ün Hayatı",
+    soru: "Atatürk'ün ilk görev yeri hangi ordu ve şehirdir?",
+    secenekler: [
+      "3. Ordu – Selanik",
+      "1. Ordu – İstanbul",
+      "5. Ordu – Şam",
+      "2. Ordu – Edirne",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 359,
+    konu: "Atatürk'ün Hayatı",
+    soru: "Atatürk, 1910 yılında Osmanlı ordusunu temsilen hangi ülkedeki manevralara katılmıştır?",
+    secenekler: [
+      "Almanya – Schleswig",
+      "İngiltere – Salisbury",
+      "Fransa – Picardie",
+      "Avusturya – Graz",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 360,
+    konu: "Atatürk'ün Hayatı",
+    soru: "Atatürk'ün I. Dünya Savaşı'ndaki cephe sırası hangisidir?",
+    secenekler: [
+      "Kafkas – Çanakkale – Suriye/Filistin",
+      "Suriye – Kafkas – Çanakkale",
+      "Çanakkale – Kafkas – Suriye/Filistin",
+      "Kanal – Çanakkale – Kafkas",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 361,
+    konu: "Atatürk'ün Hayatı",
+    soru: "Atatürk, Selanik'te başlayıp Manastır'da devam eden eğitim hayatında hangi okul türlerine gitmiştir?",
+    secenekler: [
+      "Medrese → Rüştiye → Harp Okulu",
+      "Mahalle mektebi/Şemsi Efendi → Askeri rüştiye → Manastır Askeri İdadisi",
+      "Darülfünun → Harp Akademisi → Harp Okulu",
+      "Mülkiye rüştiyesi → Darüşşafaka → Harp Okulu",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı Toprak Kaybı (19. yy) ----------
+  {
+    id: 362,
+    konu: "Osmanlı Toprak Kayıpları",
+    soru: "Kıbrıs hangi antlaşma ile İngiltere'ye verilmiş, hangi yılda resmen kaybedilmiştir?",
+    secenekler: [
+      "Berlin Antlaşması – 1878 / Resmen 1914",
+      "Paris Antlaşması – 1856 / Resmen 1878",
+      "Küçük Kaynarca – 1774 / Resmen 1914",
+      "Lozan – 1923",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 363,
+    konu: "Osmanlı Toprak Kayıpları",
+    soru: "19. yüzyılda Kuzey Afrika'da kaybedilen ilk toprak parçası ve onu işgal eden devlet hangisidir?",
+    secenekler: [
+      "Tunus – İngiltere",
+      "Mısır – Fransa",
+      "Cezayir – Fransa",
+      "Trablusgarp – İtalya",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 364,
+    konu: "Osmanlı Toprak Kayıpları",
+    soru: "Küçük Kaynarca Antlaşması ile Osmanlı'nın yaşadığı en kritik kayıp nedir?",
+    secenekler: [
+      "Bulgaristan'ın üçe bölünmesi",
+      "Yunanistan'ın bağımsızlığı",
+      "Kırım'ın bağımsız olması (sonun başlangıcı)",
+      "Bosna'nın Avusturya'ya devri",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Şark Meselesi ve Viyana Kongresi ----------
+  {
+    id: 365,
+    konu: "Şark Meselesi",
+    soru: "Şark Meselesi (Osmanlı'nın Avrupa'dan atılması fikri) hangi kongrede gündeme gelmiştir?",
+    secenekler: [
+      "Berlin Kongresi 1878",
+      "Viyana Kongresi 1815",
+      "Paris Kongresi 1856",
+      "Londra Konferansı 1840",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı İslahatlar ----------
+  {
+    id: 366,
+    konu: "Osmanlı Islahatlar",
+    soru: "Tanzimat Fermanı hangi padişah döneminde, kim tarafından hazırlanmış ve nerede ilan edilmiştir?",
+    secenekler: [
+      "Abdülaziz – Mithat Paşa – Dolmabahçe",
+      "Abdülmecid – Mustafa Reşit Paşa – Gülhane Parkı",
+      "II. Mahmut – Mustafa Reşit Paşa – Topkapı",
+      "II. Abdülhamit – Ali Paşa – Gülhane",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 367,
+    konu: "Osmanlı Islahatlar",
+    soru: "Tanzimat döneminde cizye vergisinin kaldırılması hangi ıslahat belgesiyle gerçekleşmiştir?",
+    secenekler: [
+      "Tanzimat Fermanı",
+      "Islahat Fermanı",
+      "Kanun-i Esasi",
+      "Senedi İttifak",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 368,
+    konu: "Osmanlı Islahatlar",
+    soru: "I. Mahmut döneminde Batı'dan getirilen ilk askeri uzman ve onun Osmanlı'daki adı nedir?",
+    secenekler: [
+      "Baron de Tott – Sürat Topçuları Kurucusu",
+      "Donizetti Paşa – Mızıka-yı Hümayun Kurucusu",
+      "Comte de Bonneval – Humbaracı Ahmet Paşa",
+      "General Moltke – Piyade Komutanı",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Osmanlı Deniz Savaşları ----------
+  {
+    id: 369,
+    konu: "Osmanlı Deniz Savaşları",
+    soru: "Osmanlı donanmasının dört kez yakıldığı savaşların kronolojik sırası hangisidir?",
+    secenekler: [
+      "İnebahtı – Sinop – Çeşme – Navarin",
+      "İnebahtı – Çeşme – Navarin – Sinop",
+      "Sinop – İnebahtı – Çeşme – Navarin",
+      "Çeşme – İnebahtı – Navarin – Sinop",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 370,
+    konu: "Osmanlı Deniz Savaşları",
+    soru: "Sinop'ta Osmanlı donanmasının yakılması hangi savaşın başlangıcına zemin hazırlamıştır?",
+    secenekler: [
+      "Yunan Bağımsızlık Savaşı",
+      "Kırım Savaşı",
+      "93 Harbi",
+      "I. Balkan Savaşı",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı Sarayları ----------
+  {
+    id: 371,
+    konu: "Osmanlı Sarayları",
+    soru: "Topkapı Sarayı'ndaki Revan Köşkü ve Bağdat Köşkü hangi padişah döneminde yapılmıştır?",
+    secenekler: [
+      "Kanuni Sultan Süleyman",
+      "III. Ahmet",
+      "IV. Murat",
+      "II. Mahmut",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 372,
+    konu: "Osmanlı Sarayları",
+    soru: "Halkın şikayetlerini dinlemek için kullanılan ve Topkapı Sarayı'nda bulunan yapı hangisidir?",
+    secenekler: [
+      "Babüsselam",
+      "Adalet Kasrı",
+      "Bab-ı Ali",
+      "Babüssaade",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 373,
+    konu: "Osmanlı Sarayları",
+    soru: "Aşağıdaki saraylardan hangisi Topkapı Sarayı içinde yer almaz?",
+    secenekler: [
+      "Revan Köşkü",
+      "Bağdat Köşkü",
+      "Sadberk Kasrı",
+      "Adalet Kasrı",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 374,
+    konu: "Osmanlı Sarayları",
+    soru: "Yönetim merkezini II. Abdülhamit döneminde hangi saray oluşturmuştur?",
+    secenekler: [
+      "Dolmabahçe Sarayı",
+      "Çırağan Sarayı",
+      "Yıldız Sarayı",
+      "Beşiktaş Sarayı",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Osmanlı Eğitim ----------
+  {
+    id: 375,
+    konu: "Osmanlı Eğitim",
+    soru: "Medresede öğrencilerin öğrendiklerini köylere gidip halka anlatmasına ne ad verilir?",
+    secenekler: [
+      "Bedergah",
+      "Bedi Besmele",
+      "Cerre Çıkmak",
+      "İcazet",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 376,
+    konu: "Osmanlı Eğitim",
+    soru: "Staj ödemelerinin yapılmaması nedeniyle çıkan medrese isyanı hangisidir?",
+    secenekler: [
+      "Suhte (Softa) Ayaklanmaları",
+      "Celali İsyanları",
+      "Şahkulu İsyanı",
+      "Baba Zünnun İsyanı",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 377,
+    konu: "Osmanlı Eğitim",
+    soru: "Osmanlı'da şehzadenin ilk dersine ne ad verilir ve okula yeni başlayanların törenine ne denir?",
+    secenekler: [
+      "Bedi Besmele – Alay-ı Vala",
+      "İcazetname – Bedergah",
+      "Bedi Besmele – Amin Alayı",
+      "Cerre Çıkmak – Toy",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Osmanlı Hukuk ----------
+  {
+    id: 378,
+    konu: "Osmanlı Hukuk",
+    soru: "Osmanlı'da Tanzimat öncesi mahkeme türlerinden biri değildir?",
+    secenekler: [
+      "Şeri Mahkemeler",
+      "Cemaat Mahkemeleri",
+      "Konsolosluk Mahkemeleri",
+      "Nizamiye Mahkemeleri",
+    ],
+    dogru: 3,
+  },
+  {
+    id: 379,
+    konu: "Osmanlı Hukuk",
+    soru: "Tereke defterinde aşağıdakilerden hangisi kesinlikle yer almaz?",
+    secenekler: [
+      "Miras bilgileri",
+      "Mülkiyet kayıtları",
+      "Fiziksel özellikler (boy, kilo vb.)",
+      "Kimlik bilgileri",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Osmanlı Ekonomi ----------
+  {
+    id: 380,
+    konu: "Osmanlı Ekonomi",
+    soru: "Osmanlı'da devlet fiyatlara müdahale ederek belirlediği fiyat uygulamasına ne ad verilir?",
+    secenekler: [
+      "Tağşiş",
+      "İltizam",
+      "Narh Sistemi",
+      "Fiskalizm",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 381,
+    konu: "Osmanlı Ekonomi",
+    soru: "Osmanlı'nın para basma yetkisine sahip, İngilizlere ait bankası hangisidir?",
+    secenekler: [
+      "Banka-i Dersaadet",
+      "Bank-ı Osmani",
+      "İtibar-ı Milli Bankası",
+      "Ziraat Bankası",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 382,
+    konu: "Osmanlı Ekonomi",
+    soru: "Mithat Paşa tarafından kurulan, daha sonra Ziraat Bankası'na dönüşen kurum hangisidir?",
+    secenekler: [
+      "Düyun-u Umumiye",
+      "Bank-ı Osmani",
+      "Memleket Sandıkları",
+      "İtibar-ı Milli Bankası",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 383,
+    konu: "Osmanlı Ekonomi",
+    soru: "Osmanlı ekonomi anlayışındaki 'fiskalizm' ilkesi neyi ifade eder?",
+    secenekler: [
+      "Altın ve gümüşü zenginlik ölçütü saymak",
+      "Gelirleri maksimum, giderleri minimum tutmak",
+      "Arz-talep dengesini korumak",
+      "Yabancı sermayeyi çekmek",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı Teşkilat ----------
+  {
+    id: 384,
+    konu: "Osmanlı Teşkilat",
+    soru: "Osmanlı'da sadrazam olmadığında onun yerine bakan görevli kimdir?",
+    secenekler: [
+      "Kazasker",
+      "Nişancı",
+      "Sadaret Kethüdası",
+      "Defterdar",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 385,
+    konu: "Osmanlı Teşkilat",
+    soru: "İstanbul'da şehrin belediye işlerinden sorumlu görevli kimdir?",
+    secenekler: [
+      "Yeniçeri Ağası",
+      "Şehremini",
+      "Kadı",
+      "Subaşı",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 386,
+    konu: "Osmanlı Teşkilat",
+    soru: "Osmanlı'da esnaf/loncanın başındaki kişiye ne ad verilir?",
+    secenekler: [
+      "Yiğitbaşı",
+      "Kethüda",
+      "Şeyh veya Pir",
+      "Muhtesip",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 387,
+    konu: "Osmanlı Teşkilat",
+    soru: "Osmanlı'da çarşı-pazarı denetleyen, narh uygulayan görevli kimdir?",
+    secenekler: [
+      "Ehl-i Hibre",
+      "Kethüda",
+      "Yiğitbaşı",
+      "Muhtesip",
+    ],
+    dogru: 3,
+  },
+ 
+  // ---------- Kapıkulu Teşkilatı ----------
+  {
+    id: 388,
+    konu: "Kapıkulu",
+    soru: "Aşağıdakilerden hangisi kapıkulu süvarilerinden biri değildir?",
+    secenekler: [
+      "Sipahiler",
+      "Silahtar",
+      "Humbaracılar",
+      "Sağ ve Sol Ulufeciler",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 389,
+    konu: "Kapıkulu",
+    soru: "El bombası ve havan topu yapan Osmanlı ocağı hangisidir?",
+    secenekler: [
+      "Lağımcılar",
+      "Cebeciler",
+      "Humbaracı Ocağı",
+      "Top Arabacıları",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 390,
+    konu: "Kapıkulu",
+    soru: "Savaşta en önde giden, vahşi hayvan kürklerinden kıyafet giyen süvariler kimlerdir?",
+    secenekler: [
+      "Akıncılar",
+      "Deliler",
+      "Azaplar",
+      "Sakalar",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Şehzade Sistemi ----------
+  {
+    id: 391,
+    konu: "Şehzade Sistemi",
+    soru: "Osmanlı'da şehzadelerin sancağa kaç yaşında gittiği ve yanlarına verilen görevlinin adı nedir?",
+    secenekler: [
+      "10 yaşında – Naip",
+      "12 yaşında – Lala",
+      "15 yaşında – Atabey",
+      "18 yaşında – Melik",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 392,
+    konu: "Şehzade Sistemi",
+    soru: "'Kafes' sisteminden gelen ilk padişah kimdir ve hangi veraset anlayışını getirmiştir?",
+    secenekler: [
+      "III. Mehmet – Sancağa çıkmayı kaldırdı",
+      "I. Ahmet – Ekber ve Erşad sistemini getirdi",
+      "IV. Murat – Devşirme sistemini kaldırdı",
+      "III. Selim – Nizam-ı Cedid'i kurdu",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Devşirme ----------
+  {
+    id: 393,
+    konu: "Devşirme",
+    soru: "Pençik sistemi ile devşirme arasındaki temel fark nedir?",
+    secenekler: [
+      "Devşirmede para ödenir, pençikte ödenmez",
+      "Pençik savaş esirlerini kapsar, devşirme Hristiyan çocuklardan",
+      "Devşirme sadece Müslümanlardan alınır",
+      "Pençik sadece denizci yetiştirmeye yöneliktir",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı-Rusya ----------
+  {
+    id: 394,
+    konu: "Osmanlı-Rusya",
+    soru: "Osmanlı-Rusya arasında imzalanan ilk antlaşma hangisidir?",
+    secenekler: [
+      "Küçük Kaynarca",
+      "Yaş Antlaşması",
+      "Bahçesaray (Çehrin) Antlaşması",
+      "Bükreş Antlaşması",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 395,
+    konu: "Osmanlı-Rusya",
+    soru: "Küçük Kaynarca Antlaşması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    secenekler: [
+      "Kırım bağımsız oldu",
+      "Osmanlı ilk kez tazminat ödedi",
+      "Halifelik ilk kez siyasi amaçla kullanıldı",
+      "Boğazlar Rusya'ya açıldı",
+    ],
+    dogru: 3,
+  },
+  {
+    id: 396,
+    konu: "Osmanlı-Rusya",
+    soru: "Kırım'ın resmen Rusya'ya bağlandığını kabul eden antlaşma hangisidir?",
+    secenekler: [
+      "Küçük Kaynarca",
+      "Yaş Antlaşması",
+      "Bükreş Antlaşması",
+      "Aynalıkavak Tenkihnamesi",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı Sanat-Kültür ----------
+  {
+    id: 397,
+    konu: "Osmanlı Sanat",
+    soru: "Fatih'in portresini yapan Venedikli ressam kimdir?",
+    secenekler: [
+      "Fausto Zonaro",
+      "Hasan Rıza",
+      "Bellini",
+      "Nakkaş Sinan Bey",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 398,
+    konu: "Osmanlı Sanat",
+    soru: "İstanbul'a girerken çizilen Fatih resmi kime atfedilmektedir?",
+    secenekler: [
+      "Bellini",
+      "Fausto Zonaro ya da Hasan Rıza",
+      "Osman Hamdi Bey",
+      "Nakkaş Sinan Bey",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 399,
+    konu: "Osmanlı Sanat",
+    soru: "Osmanlı'nın ilk kadın ressamı kimdir?",
+    secenekler: [
+      "Halide Edip Adıvar",
+      "Fatma Bacı",
+      "Mihri Müşfik",
+      "Reşide Hanım",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 400,
+    konu: "Osmanlı Sanat",
+    soru: "'İbrahim Çallı'nın tarzı için en doğru tanım hangisidir?",
+    secenekler: [
+      "Portre ve tarihi konular",
+      "Tatlı manzaralar, natürmort ve Kurtuluş Savaşı resimleri",
+      "Oryantalist konular",
+      "Dini motifler",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 401,
+    konu: "Osmanlı Sanat",
+    soru: "Mostar Köprüsü'nü yapan mimar kimdir ve Mimar Sinan ile ilişkisi nedir?",
+    secenekler: [
+      "Mimar Hayrettin – Mimar Sinan'ın öğrencisi",
+      "Mimar Sinan'ın kendisi",
+      "Davud-u Kayseri – Selçuklu mimarı",
+      "Mimar Atik Ali Paşa",
+    ],
+    dogru: 0,
+  },
+ 
+  // ---------- Osmanlı'da İsyanlar ----------
+  {
+    id: 402,
+    konu: "Osmanlı İsyanlar",
+    soru: "Tarihimizde rejime karşı ilk büyük ayaklanma olarak kabul edilen olay hangisidir?",
+    secenekler: [
+      "Şeyh Bedreddin İsyanı",
+      "Celali İsyanları",
+      "31 Mart Olayı",
+      "Patrona Halil İsyanı",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 403,
+    konu: "Osmanlı İsyanlar",
+    soru: "Anadolu'da çıkan ilk Celali isyanının önderi kimdir ve hangi padişah döneminde olmuştur?",
+    secenekler: [
+      "Şeyh Bedreddin – Çelebi Mehmet",
+      "Bozoklu Celal – Yavuz Sultan Selim",
+      "Baba Zünnun – Kanuni",
+      "Kalenderoğlu – II. Bayezid",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Osmanlı'nın İlkleri ----------
+  {
+    id: 404,
+    konu: "Osmanlı İlkleri",
+    soru: "Osmanlı'da ilk kaptanıderya kimdir?",
+    secenekler: [
+      "Barbaros Hayrettin",
+      "Karamürsel Alp",
+      "Turgut Reis",
+      "Piri Reis",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 405,
+    konu: "Osmanlı İlkleri",
+    soru: "Osmanlı'da vakanüvis (resmi tarih yazarı) geleneğini başlatan kişi kimdir?",
+    secenekler: [
+      "Katip Çelebi",
+      "Ahmet Cevdet Paşa",
+      "Naima",
+      "Matrakçı Nasuh",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 406,
+    konu: "Osmanlı İlkleri",
+    soru: "Osmanlı'da ilk devlet matbaası hangisidir?",
+    secenekler: [
+      "İbrahim Müteferrika Matbaası",
+      "Matbaa-i Amire",
+      "Dar-ül Tıbaat",
+      "Takvimhane-i Amire",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 407,
+    konu: "Osmanlı İlkleri",
+    soru: "Osmanlı'da ilk özel Türkçe gazete hangisidir ve kurucuları kimlerdir?",
+    secenekler: [
+      "Takvim-i Vekayi – II. Mahmut",
+      "Ceride-i Havadis – Churchill",
+      "Tercüman-ı Ahval – Şinasi ve Agah Efendi",
+      "Tasvir-i Efkar – Namık Kemal",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Kavimler Göçü Sonuçları ----------
+  {
+    id: 408,
+    konu: "Kavimler Göçü",
+    soru: "Kavimler Göçü sırasında Avrupa'ya göç eden topluluklar arasında aşağıdakilerden hangisi Türk kökenli değildir?",
+    secenekler: [
+      "Hunlar",
+      "Avarlar",
+      "Kıpçaklar",
+      "Franklar",
+    ],
+    dogru: 3,
+  },
+ 
+  // ---------- Büyük Selçuklu Divanı ----------
+  {
+    id: 409,
+    konu: "Büyük Selçuklu Divanı",
+    soru: "Büyük Selçuklularda büyük divana verilen isim hangisidir?",
+    secenekler: [
+      "Divan-ı Saltanat",
+      "Divan-ı İnşa",
+      "Divan-ı Tuğra",
+      "Divan-ı Mezalim",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 410,
+    konu: "Büyük Selçuklu Divanı",
+    soru: "Büyük Selçuklularda mali divan kimliği taşıyan, gelir-gider kayıtlarını tutan divan hangisidir?",
+    secenekler: [
+      "Divan-ı İşraf",
+      "Divan-ı İstifa",
+      "Divan-ı Berid",
+      "Divan-ı Arz",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 411,
+    konu: "Büyük Selçuklu",
+    soru: "'Siyasetname'yi yazan Büyük Selçuklu veziri ve sunduğu padişah kimdir?",
+    secenekler: [
+      "Gazali – Alparslan",
+      "Nizamülmülk – Melikşah",
+      "Tonyukuk – Bilge Kağan",
+      "Yusuf Has Hacip – Kutalmış",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Anadolu'nun İlk Türk Eserleri ----------
+  {
+    id: 412,
+    konu: "Anadolu'nun İlk Türk Eserleri",
+    soru: "Anadolu'da ilk eser bırakan beylikler hangileridir (DSMAÇ kısaltması)?",
+    secenekler: [
+      "Danişmentliler, Saltuklular, Mengücekliler, Artuklular, Çaka Beyliği",
+      "Dulkadiroğulları, Saruhanoğulları, Menteşeoğulları, Aydınoğulları, Candaroğulları",
+      "Osmanoğulları, Karamanoğulları, Germiyanoğulları, Hamitoğulları, Ramazanoğulları",
+      "Eretna, Kadı Burhanettin, İlhanlılar, Karahanlılar, Gazneliler",
+    ],
+    dogru: 0,
+  },
+ 
+  // ---------- Devşirme ve Osmanlı Ordusu ----------
+  {
+    id: 413,
+    konu: "Osmanlı Ordusu",
+    soru: "17. yüzyıldan sonra Osmanlı'nın dışarıdan ücretle tuttuğu askerlere ne ad verilir?",
+    secenekler: [
+      "Akıncı",
+      "Azap",
+      "Sekban ve Saruca",
+      "Levent",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 414,
+    konu: "Osmanlı Ordusu",
+    soru: "19. yüzyılda tımar kaldırılınca taşranın güvenliği için oluşturulan birlikler hangisidir?",
+    secenekler: [
+      "Yeniçeriler",
+      "Azaplar",
+      "Redif Birlikleri",
+      "Eşkinciler",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Osmanlı İskan Politikası ----------
+  {
+    id: 415,
+    konu: "Osmanlı İskan",
+    soru: "Osmanlı'nın iskan politikasının amaçlarından biri değildir?",
+    secenekler: [
+      "Bataklıkları ve boş yerleri imara açmak",
+      "Kervanların güvenliğini sağlamak",
+      "Nüfusu azaltmak",
+      "Fethedilen yerleri Türk-Müslüman nüfusla doldurmak",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Milli Mücadele Cemiyetleri ----------
+  {
+    id: 416,
+    konu: "Milli Mücadele Cemiyetleri",
+    soru: "Milli Mücadele döneminde Trabzon'da çıkarılan gazeteler hangileridir?",
+    secenekler: [
+      "İstikbal ve İrade-i Milliye",
+      "Hakimiyet-i Milliye ve Minber",
+      "Albayrak ve Hadisat",
+      "Peyam-ı Sabah ve Alemdar",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 417,
+    konu: "Milli Mücadele Cemiyetleri",
+    soru: "Vilayat-ı Şarkiye (Doğu Anadolu) cemiyetinin en önemli gazetesi hangisidir?",
+    secenekler: [
+      "İstikbal",
+      "Albayrak",
+      "İrade-i Milliye",
+      "Hakimiyet-i Milliye",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 418,
+    konu: "Milli Mücadele Cemiyetleri",
+    soru: "Milli Kongre'yi kurmayı gündeme getiren ve ilk kez 'Kuva-yı Milliye' kavramını kullanan rapor kime aittir?",
+    secenekler: [
+      "Sandler Raporu",
+      "Dr. Esat Işık Raporu",
+      "Bristol-Harbord Raporu",
+      "Halide Edip Raporu",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Karadeniz Direniş ----------
+  {
+    id: 419,
+    konu: "Milli Mücadele",
+    soru: "Giresun'da Pontusçu Rum çetelerine karşı direniş başlatan ve Mustafa Kemal'in muhafız komutanı olan kişi kimdir?",
+    secenekler: [
+      "Demirci Mehmet Efe",
+      "Çerkez Ethem",
+      "Topal Osman Ağa",
+      "Tekelioğlu Sinan Bey",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Amasya Görüşmeleri ----------
+  {
+    id: 420,
+    konu: "Amasya Görüşmeleri",
+    soru: "Amasya Görüşmeleri'nde İstanbul Hükümeti'ni temsil eden isim kimdir?",
+    secenekler: [
+      "Damat Ferit Paşa",
+      "Salih Paşa (Bahriye Nazırı)",
+      "Tevfik Paşa",
+      "Ali Rıza Paşa",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 421,
+    konu: "Amasya Görüşmeleri",
+    soru: "Amasya Görüşmeleri kararlarından İstanbul Hükümeti'nin gerçekten uyguladığı tek karar hangisidir?",
+    secenekler: [
+      "Meclis'in Anadolu'da toplanması",
+      "Sivas Kongresi kararlarının kabul edilmesi",
+      "Mebusan Meclisi'nin açılması ve seçimlerin yapılması",
+      "Zararlı cemiyetlerin kapatılması",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- TBMM'nin İlk Kararları ----------
+  {
+    id: 422,
+    konu: "TBMM İlk Dönem",
+    soru: "TBMM'nin çalışma ilkelerini belirleyen ilk kanun hangisidir?",
+    secenekler: [
+      "Hıyanet-i Vataniye Kanunu",
+      "Nisab-ı Müzakere Kanunu",
+      "Firariler Kanunu",
+      "Tekalif-i Milliye",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 423,
+    konu: "TBMM İlk Dönem",
+    soru: "İstanbul Hükümeti'nin TBMM'ye karşı aldığı tedbirlere karşı TBMM'nin çıkardığı fetva kimin tarafından yayımlanmıştır?",
+    secenekler: [
+      "Şeyhülislam Dürrizade",
+      "Ankara Müftüsü Mehmet Rıfat Börekçi",
+      "Diyanet İşleri Başkanı",
+      "Kazasker",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 424,
+    konu: "TBMM İlk Dönem",
+    soru: "TBMM'nin ilk Maarif (Eğitim) Bakanı kimdir?",
+    secenekler: [
+      "Adnan Adıvar",
+      "Fevzi Çakmak",
+      "Rıza Nur",
+      "Bekir Sami Bey",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 425,
+    konu: "TBMM İlk Dönem",
+    soru: "Temsil Heyeti'nin ilk yürütme yetkisi olarak hangi görev Batı Cephesi komutanlığına atanarak gerçekleşmiştir?",
+    secenekler: [
+      "İsmet İnönü'nün atanması",
+      "Ali Fuat Cebesoy'un atanması",
+      "Fevzi Çakmak'ın atanması",
+      "Kazım Karabekir'in atanması",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Antlaşmalar ve İmzalayanlar ----------
+  {
+    id: 426,
+    konu: "Antlaşmalar",
+    soru: "Moskova Antlaşması'nı (16 Mart 1921) TBMM adına imzalayanlar kimlerdir?",
+    secenekler: [
+      "İsmet İnönü – Rıza Nur – Hasan Saka",
+      "Yusuf Kemal Tengirşek – Rıza Nur – Ali Fuat Cebesoy",
+      "Kazım Karabekir – Bekir Sami – Rıza Nur",
+      "İsmet İnönü – Bekir Sami – Yusuf Kemal",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 427,
+    konu: "Antlaşmalar",
+    soru: "Mudanya Ateşkes Antlaşması'nı TBMM adına imzalayan komutan kimdir?",
+    secenekler: [
+      "Fevzi Çakmak",
+      "Kazım Karabekir",
+      "İsmet İnönü",
+      "Ali Fuat Cebesoy",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 428,
+    konu: "Antlaşmalar",
+    soru: "Lozan Barış Antlaşması'nda gözlemci olarak bulunan devlet hangisidir?",
+    secenekler: [
+      "Rusya",
+      "Almanya",
+      "ABD",
+      "Japonya",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 429,
+    konu: "Antlaşmalar",
+    soru: "Montrö Boğazlar Sözleşmesi'ni Türkiye adına imzalayan dışişleri bakanı kimdir?",
+    secenekler: [
+      "İsmet İnönü",
+      "Yusuf Kemal Tengirşek",
+      "Tevfik Rüştü Aras",
+      "Hasan Saka",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Batı Cephesi Savaşları Sırası ----------
+  {
+    id: 430,
+    konu: "Batı Cephesi",
+    soru: "Batı cephesindeki 7 büyük savaşın doğru sırası hangisidir?",
+    secenekler: [
+      "Gediz – I.İnönü – II.İnönü – Kütahya-Eskişehir – Aslıhanlar-Dumlupınar – Sakarya – Başkomutanlık",
+      "I.İnönü – Gediz – II.İnönü – Sakarya – Kütahya – Dumlupınar – Başkomutanlık",
+      "Gediz – Sakarya – I.İnönü – II.İnönü – Kütahya – Dumlupınar – Başkomutanlık",
+      "I.İnönü – II.İnönü – Gediz – Kütahya – Sakarya – Dumlupınar – Başkomutanlık",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 431,
+    konu: "Batı Cephesi",
+    soru: "I. İnönü Savaşı hangi ayda başlamış ve hangi antlaşmalar bu dönemde imzalanmıştır?",
+    secenekler: [
+      "Ocak 1921 – 1921 Anayasası ve Moskova Antlaşması bu dönemde oldu",
+      "Şubat 1921 – Gümrü ve Kars antlaşmaları bu dönemde oldu",
+      "Mart 1921 – Londra Konferansı ve Ankara Antlaşması",
+      "Nisan 1921 – Sevr ve San Remo bu dönemde oldu",
+    ],
+    dogru: 0,
+  },
+ 
+  // ---------- İstiklal Mahkemeleri ----------
+  {
+    id: 432,
+    konu: "İstiklal Mahkemeleri",
+    soru: "İstiklal Mahkemesi'nin KURULMADĞI olay hangisidir?",
+    secenekler: [
+      "Şeyh Sait İsyanı",
+      "İzmir Suikastı",
+      "Menemen Olayı (Kubilay Olayı)",
+      "TBMM'ye karşı iç isyanlar (1920-21)",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 433,
+    konu: "İstiklal Mahkemeleri",
+    soru: "Şeyh Sait İsyanı sırasında hangi kanun çıkarılmış ve bu süreçte hangi parti kapatılmıştır?",
+    secenekler: [
+      "Hıyanet-i Vataniye – Serbest Cumhuriyet Fırkası",
+      "Tekalif-i Milliye – Demokrat Parti",
+      "Takrir-i Sükun – Terakkiperver Cumhuriyet Fırkası",
+      "Nisab-ı Müzakere – Halk Zümresi",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Cumhuriyet İnkılapları Tarihleri ----------
+  {
+    id: 434,
+    konu: "İnkılaplar Tarihleri",
+    soru: "Aşağıdaki inkılapları kronolojik sıraya göre doğru diziniz:",
+    secenekler: [
+      "Saltanatın kaldırılması → Cumhuriyet ilanı → Halifeliğin kaldırılması → Şapka Kanunu → Latin harfleri",
+      "Halifeliğin kaldırılması → Saltanat → Cumhuriyet → Şapka → Latin harfleri",
+      "Cumhuriyet ilanı → Saltanat → Halifelik → Şapka → Latin",
+      "Saltanat → Halifelik → Cumhuriyet → Latin → Şapka",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 435,
+    konu: "İnkılaplar Tarihleri",
+    soru: "Kadınlara siyasi hakların verilme sırası hangisidir?",
+    secenekler: [
+      "Belediye seçimleri (1930) → Muhtarlık (1933) → Milletvekili seçme-seçilme (1934)",
+      "Milletvekili (1930) → Belediye (1933) → Muhtarlık (1934)",
+      "Muhtarlık (1930) → Belediye (1933) → Milletvekili (1934)",
+      "Belediye (1928) → Muhtarlık (1930) → Milletvekili (1932)",
+    ],
+    dogru: 0,
+  },
+ 
+  // ---------- Hukuk İnkılapları ----------
+  {
+    id: 436,
+    konu: "Hukuk İnkılapları",
+    soru: "Türk Medeni Kanunu hangi ülkenin kanunundan alınmıştır ve neden tercih edilmiştir?",
+    secenekler: [
+      "Fransa – İdare hukukuna uygunluğu",
+      "İtalya – Ceza hukukuyla uyumu",
+      "Almanya – Ticaret hukukuna uygunluğu",
+      "İsviçre – En modern, demokratik ve laiklik ilkelerine uygun olması",
+    ],
+    dogru: 3,
+  },
+  {
+    id: 437,
+    konu: "Hukuk İnkılapları",
+    soru: "Türk Ceza Kanunu hangi ülkeden alınmıştır?",
+    secenekler: [
+      "İsviçre",
+      "Fransa",
+      "İtalya",
+      "Almanya",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Ekonomi İnkılapları ----------
+  {
+    id: 438,
+    konu: "Ekonomi İnkılapları",
+    soru: "İzmir İktisat Kongresi'nde kabul edilen 'Misak-ı İktisadi' ile ilgili hangisi yanlıştır?",
+    secenekler: [
+      "Yabancı sermayeye tamamen karşı çıkılmıştır",
+      "Hammaddesi yurt içinde yetişen sanayiler kurulmalıdır",
+      "Yerli malı kullanımı teşvik edilmelidir",
+      "Küçük imalattan fabrikalaşmaya geçilmelidir",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 439,
+    konu: "Ekonomi İnkılapları",
+    soru: "Birinci Beş Yıllık Sanayi Planı kapsamında OLMAYAN tesis hangisidir?",
+    secenekler: [
+      "Karabük Demir-Çelik Fabrikası",
+      "Nazilli Pamuklu Dokuma",
+      "Alpullu Şeker Fabrikası",
+      "Paşabahçe Cam Fabrikası",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 440,
+    konu: "Ekonomi İnkılapları",
+    soru: "Sümerbank hangi amaçla kurulmuştur?",
+    secenekler: [
+      "Çiftçilere ucuz kredi sağlamak",
+      "Madenleri aramak ve işletmek",
+      "Devlet fabrikalarını işletmek ve finanse etmek",
+      "Demiryolu inşa etmek",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Kurum Dönüşümleri ----------
+  {
+    id: 441,
+    konu: "Kurum Dönüşümleri",
+    soru: "Darülfünun hangi reformla kapatılmış ve yerine ne kurulmuştur?",
+    secenekler: [
+      "Tevhid-i Tedrisat – Ankara Üniversitesi",
+      "1933 Üniversite Reformu (Malche Raporu) – İstanbul Üniversitesi",
+      "Maarif Teşkilatı Kanunu – Hacettepe Üniversitesi",
+      "Soyadı Kanunu – Gazi Üniversitesi",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 442,
+    konu: "Kurum Dönüşümleri",
+    soru: "Sanayi-i Nefise Mektebi'ni kuran kişi ve bugünkü adı nedir?",
+    secenekler: [
+      "Şeker Ahmet Paşa – İstanbul Güzel Sanatlar",
+      "Osman Hamdi Bey – Mimar Sinan Güzel Sanatlar Üniversitesi",
+      "İbrahim Çallı – Güzel Sanatlar Akademisi",
+      "II. Mahmut – Mekteb-i Fünun",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Milli Mücadele Dönemi Eserleri ----------
+  {
+    id: 443,
+    konu: "Milli Mücadele Edebiyatı",
+    soru: "Aşağıdaki eserlerden hangisi Milli Mücadele dönemini konu almaz?",
+    secenekler: [
+      "Ateşten Gömlek (Halide Edip Adıvar)",
+      "Yaban (Yakup Kadri)",
+      "Küçük Ağa (Tarık Buğra)",
+      "Tek Adam (Şevket Süreyya Aydemir)",
+    ],
+    dogru: 3,
+  },
+  {
+    id: 444,
+    konu: "Milli Mücadele Edebiyatı",
+    soru: "Mustafa Kemal'in fikir dünyasını şekillendiren üç isim ve verdikleri katkılar doğru eşleştirilmiştir?",
+    secenekler: [
+      "Ziya Gökalp (fikirler) – Namık Kemal (hisler) – Tevfik Fikret (inkılap ve devrim ruhu)",
+      "Namık Kemal (fikirler) – Ziya Gökalp (hisler) – Mehmet Emin Yurdakul (inkılap)",
+      "Tevfik Fikret (fikirler) – Namık Kemal (hisler) – Ziya Gökalp (inkılap)",
+      "Mehmet Akif (fikirler) – Ziya Gökalp (hisler) – Tevfik Fikret (duygu)",
+    ],
+    dogru: 0,
+  },
+ 
+  // ---------- İnkılap Uygulayıcıları ----------
+  {
+    id: 445,
+    konu: "İnkılap Uygulayıcıları",
+    soru: "Tevhid-i Tedrisat Kanunu'nun uygulanmasını öneren ve teklif eden kişi kimdir?",
+    secenekler: [
+      "Rıza Nur",
+      "Mahmut Esat Bozkurt",
+      "Hüseyin Vasıf Çınar",
+      "Hamdullah Suphi Tanrıöver",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 446,
+    konu: "İnkılap Uygulayıcıları",
+    soru: "İstiklal Marşı'nı mecliste okuyan ve Mehmet Akif Ersoy'u ikna eden kişi kimdir?",
+    secenekler: [
+      "Rıza Nur",
+      "Hamdullah Suphi Tanrıöver",
+      "Kazım Karabekir",
+      "Ali Fethi Okyar",
+    ],
+    dogru: 1,
+  },
+ 
+  // ---------- Soğuk Savaş Dönemi ----------
+  {
+    id: 447,
+    konu: "Soğuk Savaş",
+    soru: "Türkiye'nin Avrupa Birliği'ne üyelik sürecinde Helsinki Zirvesi ne anlama gelir?",
+    secenekler: [
+      "Türkiye'nin AB'ye girdiği zirve",
+      "Türkiye'nin resmi aday ülke statüsü aldığı zirve",
+      "Türkiye'nin müzakere sürecini tamamladığı zirve",
+      "Türkiye'nin gümrük birliğine girdiği antlaşma",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 448,
+    konu: "Soğuk Savaş",
+    soru: "Bağdat Paktı'nın (CENTO) adının değişmesine neden olan gelişme nedir?",
+    secenekler: [
+      "Türkiye'nin ayrılması",
+      "Irak'ın 1959'da pakttan çıkması",
+      "ABD'nin katılmaması",
+      "İran'ın karşı çıkması",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 449,
+    konu: "Soğuk Savaş",
+    soru: "II. Dünya Savaşı sırasında Türkiye'nin uyguladığı Varlık Vergisi'nin amacı nedir?",
+    secenekler: [
+      "Savaşa katılmak için kaynak toplamak",
+      "Savaş zenginlerinin karlarını vergilendirmek ve enflasyonu düşürmek",
+      "Azınlıkların mallarına el koymak",
+      "Köy Enstitülerini finanse etmek",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 450,
+    konu: "Soğuk Savaş",
+    soru: "Köy Enstitüleri hangi bakan öncülüğünde kurulmuştur?",
+    secenekler: [
+      "Rıza Nur ve Adnan Adıvar",
+      "Fevzi Çakmak ve İsmet İnönü",
+      "Hasan Ali Yücel ve İsmail Hakkı Tonguç",
+      "Celal Bayar ve Refik Şevket İnce",
+    ],
+    dogru: 2,
+  },
+ 
+  // ---------- Genel Karışık ----------
+  {
+    id: 451,
+    konu: "Genel Tarih",
+    soru: "Osmanlı'nın başlangıçta Bizans'la görünüşte iyi geçinme politikasına ne ad verilir?",
+    secenekler: [
+      "İstimalet",
+      "Müdara",
+      "Fiskalizm",
+      "İltizam",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 452,
+    konu: "Genel Tarih",
+    soru: "On İki Ada hangi savaşta geçici olarak İtalya'ya verilmiştir?",
+    secenekler: [
+      "I. Balkan Savaşı",
+      "I. Dünya Savaşı",
+      "Trablusgarp Savaşı (Uşi Antlaşması)",
+      "II. Dünya Savaşı",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 453,
+    konu: "Genel Tarih",
+    soru: "Rusya'nın Brest-Litovsk Antlaşması ile I. Dünya Savaşı'ndan çekilmesi ne anlama geliyordu?",
+    secenekler: [
+      "İtilaf Devletleri güçlendi",
+      "Sovyet Devrimi'nin ardından Rusya'nın savaştan çekilmesi",
+      "Osmanlı'nın Kafkas cephesini kapattı",
+      "ABD'nin savaşa girmesine zemin hazırladı",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 454,
+    konu: "Genel Tarih",
+    soru: "Akdeniz Oyunları ilk kez nerede düzenlenmiştir?",
+    secenekler: [
+      "Türkiye",
+      "İtalya",
+      "Mısır",
+      "İspanya",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 455,
+    konu: "Genel Tarih",
+    soru: "Osmanlı'nın ilk koalisyon hükümeti hangi yılda kurulmuştur?",
+    secenekler: [
+      "1950",
+      "1955",
+      "1961",
+      "1965",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 456,
+    konu: "Genel Tarih",
+    soru: "Locarno Antlaşması (1925) ne amaçla yapılmıştır?",
+    secenekler: [
+      "Almanya'nın komşularına saldırmamasını güvence altına almak",
+      "Osmanlı borçlarını düzenlemek",
+      "Türkiye'nin NATO'ya girmesini sağlamak",
+      "Balkan devletleri arasında ittifak kurmak",
+    ],
+    dogru: 0,
+  },
+  {
+    id: 457,
+    konu: "Genel Tarih",
+    soru: "Kellogg-Briand Paktı'nın temel ilkesi nedir ve Türkiye imzalamış mıdır?",
+    secenekler: [
+      "Serbest ticaret – Evet imzaladı",
+      "Savunmaya dayanmayan savaşın kanun dışı sayılması – Evet imzaladı",
+      "Nükleer silahsızlanma – Hayır imzalamadı",
+      "Kolektif güvenlik – Hayır imzalamadı",
+    ],
+    dogru: 1,
+  },
+  {
+    id: 458,
+    konu: "Genel Tarih",
+    soru: "Ramazanoğulları beyliği Osmanlı'ya hangi padişah döneminde katılmıştır?",
+    secenekler: [
+      "Yavuz Sultan Selim",
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Bayezid",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 459,
+    konu: "Genel Tarih",
+    soru: "YÖK (Yükseköğretim Kurulu) hangi yılda kurulmuştur?",
+    secenekler: [
+      "1960",
+      "1971",
+      "1980",
+      "1982",
+    ],
+    dogru: 2,
+  },
+  {
+    id: 460,
+    konu: "Genel Tarih",
+    soru: "Süveş Kanalı'nı millileştiren Mısır Cumhurbaşkanı kimdir ve hangi yılda gerçekleşmiştir?",
+    secenekler: [
+      "Enver Sedat – 1967",
+      "Cemal Abdülnasır – 1956",
+      "Hüsnü Mübarek – 1973",
+      "Kaddafi – 1969",
+    ],
+    dogru: 1,
+  },
+    {
+    id: 461,
+    konu: "Osmanlı İlkleri",
+    soru: "Osmanlı'da ilk devlet matbaası hangisidir?",
+    secenekler: ["İbrahim Müteferrika Matbaası", "Matbaa-i Amire", "Dar-ül Tıbaat", "Takvimhane-i Amire"],
+    dogru: 1,
+  },
+  {
+    id: 462,
+    konu: "Osmanlı İlkleri",
+    soru: "Osmanlı'da ilk özel Türkçe gazete hangisidir ve kurucuları kimlerdir?",
+    secenekler: ["Takvim-i Vekayi – II. Mahmut", "Ceride-i Havadis – Churchill", "Tercüman-ı Ahval – Şinasi ve Agah Efendi", "Tasvir-i Efkar – Namık Kemal"],
+    dogru: 2,
+  },
+  {
+    id: 463,
+    konu: "Osmanlı Sanat",
+    soru: "Mostar Köprüsü'nü yapan mimar kimdir ve Mimar Sinan ile ilişkisi nedir?",
+    secenekler: ["Mimar Hayrettin – Mimar Sinan'ın öğrencisi", "Mimar Sinan'ın kendisi", "Davud-u Kayseri – Selçuklu mimarı", "Mimar Atik Ali Paşa"],
+    dogru: 0,
+  },
+  {
+    id: 464,
+    konu: "Osmanlı Sanat",
+    soru: "İbrahim Çallı'nın tarzı için en doğru tanım hangisidir?",
+    secenekler: ["Portre ve tarihi konular", "Tatlı manzaralar, natürmort ve Kurtuluş Savaşı resimleri", "Oryantalist konular", "Dini motifler"],
+    dogru: 1,
+  },
+  {
+    id: 465,
+    konu: "TBMM İlk Dönem",
+    soru: "TBMM'nin çalışma ilkelerini belirleyen ilk kanun hangisidir?",
+    secenekler: ["Hıyanet-i Vataniye Kanunu", "Nisab-ı Müzakere Kanunu", "Firariler Kanunu", "Tekalif-i Milliye"],
+    dogru: 1,
+  },
+  {
+    id: 466,
+    konu: "TBMM İlk Dönem",
+    soru: "TBMM'nin ilk Maarif (Eğitim) Bakanı kimdir?",
+    secenekler: ["Adnan Adıvar", "Fevzi Çakmak", "Rıza Nur", "Bekir Sami Bey"],
+    dogru: 2,
+  },
+  {
+    id: 467,
+    konu: "TBMM İlk Dönem",
+    soru: "Temsil Heyeti'nin ilk yürütme yetkisi olarak hangi görev gerçekleşmiştir?",
+    secenekler: ["İsmet İnönü'nün atanması", "Ali Fuat Cebesoy'un Batı Cephesi komutanlığına atanması", "Fevzi Çakmak'ın atanması", "Kazım Karabekir'in atanması"],
+    dogru: 1,
+  },
+  {
+    id: 468,
+    konu: "Hukuk İnkılapları",
+    soru: "Türk Medeni Kanunu hangi ülkenin kanunundan alınmıştır ve neden tercih edilmiştir?",
+    secenekler: ["Fransa – İdare hukukuna uygunluğu", "İtalya – Ceza hukukuyla uyumu", "Almanya – Ticaret hukukuna uygunluğu", "İsviçre – En modern, demokratik ve laiklik ilkelerine uygun olması"],
+    dogru: 3,
+  },
+  {
+    id: 469,
+    konu: "Hukuk İnkılapları",
+    soru: "Türk Ceza Kanunu hangi ülkeden alınmıştır?",
+    secenekler: ["İsviçre", "Fransa", "İtalya", "Almanya"],
+    dogru: 2,
+  },
+  {
+    id: 470,
+    konu: "Ekonomi İnkılapları",
+    soru: "İzmir İktisat Kongresi'nde kabul edilen 'Misak-ı İktisadi' ile ilgili hangisi yanlıştır?",
+    secenekler: ["Yabancı sermayeye tamamen karşı çıkılmıştır", "Hammaddesi yurt içinde yetişen sanayiler kurulmalıdır", "Yerli malı kullanımı teşvik edilmelidir", "Küçük imalattan fabrikalaşmaya geçilmelidir"],
+    dogru: 0,
+  },
+  {
+    id: 471,
+    konu: "Ekonomi İnkılapları",
+    soru: "Birinci Beş Yıllık Sanayi Planı kapsamında OLMAYAN tesis hangisidir?",
+    secenekler: ["Karabük Demir-Çelik Fabrikası", "Nazilli Pamuklu Dokuma", "Alpullu Şeker Fabrikası", "Paşabahçe Cam Fabrikası"],
+    dogru: 2,
+  },
+  {
+    id: 472,
+    konu: "Ekonomi İnkılapları",
+    soru: "Sümerbank hangi amaçla kurulmuştur?",
+    secenekler: ["Çiftçilere ucuz kredi sağlamak", "Madenleri aramak ve işletmek", "Devlet fabrikalarını işletmek ve finanse etmek", "Demiryolu inşa etmek"],
+    dogru: 2,
+  },
+  {
+    id: 473,
+    konu: "Kurum Dönüşümleri",
+    soru: "Darülfünun hangi reformla kapatılmış ve yerine ne kurulmuştur?",
+    secenekler: ["Tevhid-i Tedrisat – Ankara Üniversitesi", "1933 Üniversite Reformu (Malche Raporu) – İstanbul Üniversitesi", "Maarif Teşkilatı Kanunu – Hacettepe Üniversitesi", "Soyadı Kanunu – Gazi Üniversitesi"],
+    dogru: 1,
+  },
+  {
+    id: 474,
+    konu: "Kurum Dönüşümleri",
+    soru: "Sanayi-i Nefise Mektebi'ni kuran kişi ve bugünkü adı nedir?",
+    secenekler: ["Şeker Ahmet Paşa – İstanbul Güzel Sanatlar", "Osman Hamdi Bey – Mimar Sinan Güzel Sanatlar Üniversitesi", "İbrahim Çallı – Güzel Sanatlar Akademisi", "II. Mahmut – Mekteb-i Fünun"],
+    dogru: 1,
+  },
+  {
+    id: 475,
+    konu: "İnkılap Uygulayıcıları",
+    soru: "Tevhid-i Tedrisat Kanunu'nun uygulanmasını öneren ve teklif eden kişi kimdir?",
+    secenekler: ["Rıza Nur", "Mahmut Esat Bozkurt", "Hüseyin Vasıf Çınar", "Hamdullah Suphi Tanrıöver"],
+    dogru: 2,
+  },
+  {
+    id: 476,
+    konu: "İnkılap Uygulayıcıları",
+    soru: "İstiklal Marşı'nı mecliste okuyan ve Mehmet Akif Ersoy'u ikna eden kişi kimdir?",
+    secenekler: ["Rıza Nur", "Hamdullah Suphi Tanrıöver", "Kazım Karabekir", "Ali Fethi Okyar"],
+    dogru: 1,
+  },
+  {
+    id: 477,
+    konu: "Milli Mücadele Edebiyatı",
+    soru: "Aşağıdaki eserlerden hangisi Milli Mücadele dönemini konu almaz?",
+    secenekler: ["Ateşten Gömlek (Halide Edip Adıvar)", "Yaban (Yakup Kadri)", "Küçük Ağa (Tarık Buğra)", "Tek Adam (Şevket Süreyya Aydemir)"],
+    dogru: 3,
+  },
+  {
+    id: 478,
+    konu: "Milli Mücadele Edebiyatı",
+    soru: "Mustafa Kemal'in fikir dünyasını şekillendiren üç isim ve verdikleri katkılar doğru eşleştirilmiştir?",
+    secenekler: ["Ziya Gökalp (fikirler) – Namık Kemal (hisler) – Tevfik Fikret (inkılap ve devrim ruhu)", "Namık Kemal (fikirler) – Ziya Gökalp (hisler) – Mehmet Emin Yurdakul (inkılap)", "Tevfik Fikret (fikirler) – Namık Kemal (hisler) – Ziya Gökalp (inkılap)", "Mehmet Akif (fikirler) – Ziya Gökalp (hisler) – Tevfik Fikret (duygu)"],
+    dogru: 0,
+  },
+  {
+    id: 479,
+    konu: "Genel Tarih",
+    soru: "On İki Ada hangi savaşta geçici olarak İtalya'ya verilmiştir?",
+    secenekler: ["I. Balkan Savaşı", "I. Dünya Savaşı", "Trablusgarp Savaşı (Uşi Antlaşması)", "II. Dünya Savaşı"],
+    dogru: 2,
+  },
+  {
+    id: 480,
+    konu: "Genel Tarih",
+    soru: "Osmanlı'nın ilk koalisyon hükümeti hangi yılda kurulmuştur?",
+    secenekler: ["1950", "1955", "1961", "1965"],
+    dogru: 2,
+  },
+  {
+    id: 481,
+    konu: "Genel Tarih",
+    soru: "Locarno Antlaşması (1925) ne amaçla yapılmıştır?",
+    secenekler: ["Almanya'nın komşularına saldırmamasını güvence altına almak", "Osmanlı borçlarını düzenlemek", "Türkiye'nin NATO'ya girmesini sağlamak", "Balkan devletleri arasında ittifak kurmak"],
+    dogru: 0,
+  },
+  {
+    id: 482,
+    konu: "Genel Tarih",
+    soru: "Kellogg-Briand Paktı'nın temel ilkesi nedir ve Türkiye imzalamış mıdır?",
+    secenekler: ["Serbest ticaret – Evet imzaladı", "Savunmaya dayanmayan savaşın kanun dışı sayılması – Evet imzaladı", "Nükleer silahsızlanma – Hayır imzalamadı", "Kolektif güvenlik – Hayır imzalamadı"],
+    dogru: 1,
+  },
+  {
+    id: 483,
+    konu: "Genel Tarih",
+    soru: "Ramazanoğulları beyliği Osmanlı'ya hangi padişah döneminde katılmıştır?",
+    secenekler: ["Yavuz Sultan Selim", "Fatih Sultan Mehmet", "Kanuni Sultan Süleyman", "II. Bayezid"],
+    dogru: 2,
+  },
+  {
+    id: 484,
+    konu: "Genel Tarih",
+    soru: "YÖK (Yükseköğretim Kurulu) hangi yılda kurulmuştur?",
+    secenekler: ["1960", "1971", "1980", "1982"],
+    dogru: 2,
+  },
+  {
+    id: 485,
+    konu: "İnkılaplar Tarihleri",
+    soru: "Kadınlara siyasi hakların verilme sırası hangisidir?",
+    secenekler: ["Belediye seçimleri (1930) → Muhtarlık (1933) → Milletvekili seçme-seçilme (1934)", "Milletvekili (1930) → Belediye (1933) → Muhtarlık (1934)", "Muhtarlık (1930) → Belediye (1933) → Milletvekili (1934)", "Belediye (1928) → Muhtarlık (1930) → Milletvekili (1932)"],
+    dogru: 0,
+  },
+  {
+    id: 486,
+    konu: "Genel Tarih",
+    soru: "Süveş Kanalı'nı millileştiren Mısır Cumhurbaşkanı kimdir ve hangi yılda gerçekleşmiştir?",
+    secenekler: ["Enver Sedat – 1967", "Cemal Abdülnasır – 1956", "Hüsnü Mübarek – 1973", "Kaddafi – 1969"],
+    dogru: 1,
+  },
 ]

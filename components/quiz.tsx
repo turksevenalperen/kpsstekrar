@@ -1,8 +1,8 @@
 "use client"
-
 import { useMemo, useState } from "react"
 import { questions as vatandaslikQuestions, type Question } from "@/lib/questions"
 import { historyQuestions } from "@/lib/history-questions"
+import { questions as cografyaQuestions } from "@/lib/cografya"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import {
@@ -16,11 +16,12 @@ import {
   ListChecks,
   Scale,
   Landmark,
+  Globe2,
   ArrowLeft,
 } from "lucide-react"
 
 type Screen = "subject" | "start" | "quiz" | "result"
-type SubjectId = "vatandaslik" | "tarih"
+type SubjectId = "vatandaslik" | "tarih" | "cografya"
 
 const SUBJECTS: {
   id: SubjectId
@@ -42,6 +43,13 @@ const SUBJECTS: {
     aciklama: "İslam öncesi Türkler, Selçuklu, Osmanlı, Kurtuluş Savaşı ve inkılaplar",
     bank: historyQuestions,
     icon: Landmark,
+  },
+  {
+    id: "cografya",
+    ad: "Coğrafya",
+    aciklama: "Türkiye coğrafyası: yer şekillereri, iklim, tarım, madenler, nüfus ve daha fazlası",
+    bank: cografyaQuestions,
+    icon: Globe2,
   },
 ]
 
